@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  csv: ^4.0.4  # For CSV parsing
+  flutter_file_picker: ^4.0.10  # For file picking
+  fl_chart: ^0.40.0  # For displaying charts
